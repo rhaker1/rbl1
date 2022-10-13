@@ -1,0 +1,4 @@
+; Exclusief RBL
+; Last modified 13-10-2022
+;
+45.88.108.0/22 ; DE-LIVING-BOTS-20190619
